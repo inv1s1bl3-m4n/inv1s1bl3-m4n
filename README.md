@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @inv1s1bl3-m4n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-inv1s1bl3-m4n/inv1s1bl3-m4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<footer align="center">
+  <img align="center" alt="colored-waving" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" style="width: 100%;" />
+</footer>
